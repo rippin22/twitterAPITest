@@ -20,11 +20,7 @@
         </activity>
         <meta-data
             android:name="io.fabric.ApiKey"
-<<<<<<< HEAD
             android:value="apikeyvalue" />
-=======
-            android:value="d11f1afdb838b510c3f3974756dec5641f9db03b" />
->>>>>>> 0d36cc6aebc806d5c6f7ff656a3756110efea5e5
     </application>
 
 </manifest>
